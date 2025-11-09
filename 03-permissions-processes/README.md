@@ -25,7 +25,7 @@ Complete these tasks:
 1. Make `hello.sh` executable (only for you)
 2. Make `backup.sh` readable and executable by everyone
 3. Make `secret.sh` readable and writable only by you (no execute permission)
-4. Create a new script `sys info.sh` that displays:
+4. Create a new script `sysinfo.sh` that displays:
    - Current date and time
    - Your username
    - Current directory
