@@ -76,7 +76,6 @@ Perfect! Challenge completed!
 <summary>Hint 1: Creating the root directory</summary>
 
 ```bash
-cd ~
 mkdir -p workshop-challenges/web-project
 cd workshop-challenges/web-project
 ```
